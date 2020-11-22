@@ -1,10 +1,10 @@
 <?php
 include("database_connection.php");
-$query = "SELECT * FROM tbl_name";
-$statement = $connect->prepare($query);
-$statement->execute();
-$result = $statement->fetchAll();
-$total_row = $statement->rowCount();
+    $query = "SELECT * FROM tbl_name";
+    $statement = $connect->prepare($query);
+    $statement->execute();
+    $result = $statement->fetchAll();
+    $total_row = $statement->rowCount();
 $output = '
 <table class="table table-striped table-bordered">
     <tr>
