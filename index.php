@@ -56,7 +56,12 @@
     </div>
   </body>
 </html>
+              <!--     AJAX - CRUD     -->
 
+              <!--     C - CREATE      -->
+              <!--     R - READ        -->
+              <!--     U - UPDATE      -->
+              <!--     D - DELETE      -->
 <script>  
 $(document).ready(function(){  
 
