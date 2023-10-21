@@ -1,5 +1,5 @@
-#PHP AJAX CRUD (Create, Read, Update and Delete) example with source code
-#PHP AJAX CRUD (Napravi, Citaj, Izmeni i Obrisi) primer sa izvornim kodom
+PHP AJAX CRUD (Create, Read, Update and Delete) example with source code
+PHP AJAX CRUD (Napravi, Citaj, Izmeni i Obrisi) primer sa izvornim kodom
 
 Database Configuration - Create a table (tbl_name) in Database (demo) which includes five fields:
 Podesavanja baze podataka - Napravi tebelu (tbl_name) u bazi podataka (demo) sa ukljucenih pet polja:
